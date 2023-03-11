@@ -1,0 +1,3 @@
+# Project exclude paths
+/bbs-admin/target/
+/bbs-web/target/
